@@ -10,6 +10,6 @@ Real-time face detection using Haar Cascade.
 Face recognition using LBPH algorithm.
 User authorization for security applications.
 # Tech Stack
-Language: Matlab
-Algorithm: Haar Cascade (Detection), LBPH (Recognition)
+Language: Matlab.
+Algorithm: Haar Cascade (Detection), LBPH (Recognition).
 
